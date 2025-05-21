@@ -1,0 +1,23 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.text-orange {
+  color: #ff5722 !important;
+}
+
+.btn-orange {
+  background-color: #ff5722;
+  color: #fff;
+  border: none;
+}
+
+.btn-orange:hover {
+  background-color: #e64a19;
+}
+
+/* Responsive padding for cards */
+.card img {
+  object-fit: cover;
+  height: 200px;
+}
